@@ -26,6 +26,7 @@ namespace CadastroDeCliente.Models
         [Display(Name = "Data de nascimento")]
         [DataType(DataType.Date)]
         [DisplayFormat(DataFormatString = "{0:dd/MM/yyyy}")]
+        [Required(ErrorMessage = "{0} obrigatório")]
         public DateTime DtNascimento { get; set; }
 
         [Required(ErrorMessage = "{0} obrigatório")]
