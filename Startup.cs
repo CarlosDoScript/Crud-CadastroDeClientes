@@ -59,7 +59,7 @@ namespace CadastroDeCliente
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=PessoaFisica}/{action=Index}/{id?}");
             });
         }
     }

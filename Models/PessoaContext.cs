@@ -12,7 +12,7 @@ namespace CadastroDeCliente.Models
         {
         }
 
-        public DbSet<PessoaContext> pessoas { get; set; }
+        public DbSet<PessoaFisica> pessoaFisica  { get; set; }
 
 
     }
