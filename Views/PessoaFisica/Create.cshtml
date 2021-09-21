@@ -19,17 +19,18 @@
             </div>
             <div class="form-group">
                 <label asp-for="Cpf" class="control-label"></label>
-                <input asp-for="Cpf" class="form-control"/>
+                <input asp-for="Cpf" class="form-control" id="txtCpf"/>
+
                 <span asp-validation-for="Cpf" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Rg" class="control-label"></label>
-                <input asp-for="Rg" class="form-control" />
+                <input asp-for="Rg" class="form-control" id="txtRg" />
                 <span asp-validation-for="Rg" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Telefone" class="control-label"></label>
-                <input asp-for="Telefone" class="form-control" />
+                <input asp-for="Telefone" class="form-control" id="txtTel" />
                 <span asp-validation-for="Telefone" class="text-danger"></span>
             </div>
             <div class="form-group">
@@ -68,6 +69,35 @@
     <a asp-action="Index">Voltar para a lista</a>
 </div>
 
+
 @section Scripts {
+    <script>
+        $('#txtCpf').keypress(function () {
+            if (this.value.length >= 11)
+                return false;
+        });
+
+        $('#txtRg').keypress(function () {
+            if (this.value.length >= 9)
+                return false;
+        });
+
+        $('#txtTel').keypress(function () {
+            if (this.value.length >= 11)
+                return false;
+        });
+
+
+
+        
+
+
+
+
+
+
+
+    </script>
+
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
 }
