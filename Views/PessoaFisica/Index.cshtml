@@ -7,9 +7,9 @@
 <h1>Clientes </h1>
 
 <p>
-    <a class="btn btn-primary" asp-action="Create">Novo usuário</a>
+    <a class="btn btn-primary" asp-action="Create">Novo Cliente</a>
 </p>
-<table class="table">
+<table id="myTable" class="table">
     <thead>
         <tr>
             <th>
@@ -51,3 +51,20 @@
 }
     </tbody>
 </table>
+
+@section Scripts{
+
+    <script>
+        $(document).ready(function () {
+            $('#myTable').DataTable({
+
+                "language": {
+                    "url": "//cdn.datatables.net/plug-ins/9dcbecd42ad/i18n/Portuguese-Brasil.json"
+
+                }
+            });
+        });
+    </script>
+
+
+ }
