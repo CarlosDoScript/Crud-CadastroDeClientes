@@ -1,0 +1,400 @@
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 1', 00100000000, 000010000,
+    17999999001, '0001-01-01 00:00:00.0000000', 'Rua ficticia 1', 1, 'Bairro ficticio 1', 'Cidade 1')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 2', 00200000000, 000020000,
+    17999999002, '0002-01-01 00:00:00.0000000', 'Rua ficticia 2', 2, 'Bairro ficticio 2', 'Cidade 2')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 3', 00300000000, 000030000,
+    17999999003, '0003-01-01 00:00:00.0000000', 'Rua ficticia 3', 3, 'Bairro ficticio 3', 'Cidade 3')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 4', 00400000000, 000040000,
+    17999999004, '0004-01-01 00:00:00.0000000', 'Rua ficticia 4', 4, 'Bairro ficticio 4', 'Cidade 4')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 5', 00500000000, 000050000,
+    17999999005, '0005-01-01 00:00:00.0000000', 'Rua ficticia 5', 5, 'Bairro ficticio 5', 'Cidade 5')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 6', 00600000000, 000060000,
+    17999999006, '0006-01-01 00:00:00.0000000', 'Rua ficticia 6', 6, 'Bairro ficticio 6', 'Cidade 6')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 7', 00700000000, 000070000,
+    17999999007, '0007-01-01 00:00:00.0000000', 'Rua ficticia 7', 7, 'Bairro ficticio 7', 'Cidade 7')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 8', 00800000000, 000080000,
+    17999999008, '0008-01-01 00:00:00.0000000', 'Rua ficticia 8', 8, 'Bairro ficticio 8', 'Cidade 8')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 9', 00900000000, 000090000,
+    17999999009, '0009-01-01 00:00:00.0000000', 'Rua ficticia 9', 9, 'Bairro ficticio 9', 'Cidade 9')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 10', 01000000000, 000100000,
+    17999999010, '0010-01-01 00:00:00.0000000', 'Rua ficticia 10', 10, 'Bairro ficticio 10', 'Cidade 10')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 11', 01100000000, 000110000,
+    17999999011, '0011-01-01 00:00:00.0000000', 'Rua ficticia 11', 11, 'Bairro ficticio 11', 'Cidade 11')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 12', 01200000000, 000120000,
+    17999999012, '0012-01-01 00:00:00.0000000', 'Rua ficticia 12', 12, 'Bairro ficticio 12', 'Cidade 12')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 13', 01300000000, 000130000,
+    17999999013, '0013-01-01 00:00:00.0000000', 'Rua ficticia 13', 13, 'Bairro ficticio 13', 'Cidade 13')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 14', 01400000000, 000140000,
+    17999999014, '0014-01-01 00:00:00.0000000', 'Rua ficticia 14', 14, 'Bairro ficticio 14', 'Cidade 14')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 15', 01500000000, 000150000,
+    17999999015, '0015-01-01 00:00:00.0000000', 'Rua ficticia 15', 15, 'Bairro ficticio 15', 'Cidade 15')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 16', 01600000000, 000160000,
+    17999999016, '0016-01-01 00:00:00.0000000', 'Rua ficticia 16', 16, 'Bairro ficticio 16', 'Cidade 16')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 17', 01700000000, 000170000,
+    17999999017, '0017-01-01 00:00:00.0000000', 'Rua ficticia 17', 17, 'Bairro ficticio 17', 'Cidade 17')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 18', 01800000000, 000180000,
+    17999999018, '0018-01-01 00:00:00.0000000', 'Rua ficticia 18', 18, 'Bairro ficticio 18', 'Cidade 18')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 19', 01900000000, 000190000,
+    17999999019, '0019-01-01 00:00:00.0000000', 'Rua ficticia 19', 19, 'Bairro ficticio 19', 'Cidade 19')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 20', 02000000000, 000200000,
+    17999999020, '0020-01-01 00:00:00.0000000', 'Rua ficticia 20', 20, 'Bairro ficticio 20', 'Cidade 20')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 21', 02100000000, 000210000,
+    17999999021, '0021-01-01 00:00:00.0000000', 'Rua ficticia 21', 21, 'Bairro ficticio 21', 'Cidade 21')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 22', 02200000000, 000220000,
+    17999999022, '0022-01-01 00:00:00.0000000', 'Rua ficticia 22', 22, 'Bairro ficticio 22', 'Cidade 22')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 23', 02300000000, 000230000,
+    17999999023, '0023-01-01 00:00:00.0000000', 'Rua ficticia 23', 23, 'Bairro ficticio 23', 'Cidade 23')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 24', 02400000000, 000240000,
+    17999999024, '0024-01-01 00:00:00.0000000', 'Rua ficticia 24', 24, 'Bairro ficticio 24', 'Cidade 24')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 25', 02500000000, 000250000,
+    17999999025, '0025-01-01 00:00:00.0000000', 'Rua ficticia 25', 25, 'Bairro ficticio 25', 'Cidade 25')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 26', 02600000000, 000260000,
+    17999999026, '0026-01-01 00:00:00.0000000', 'Rua ficticia 26', 26, 'Bairro ficticio 26', 'Cidade 26')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 27', 02700000000, 000270000,
+    17999999027, '0027-01-01 00:00:00.0000000', 'Rua ficticia 27', 27, 'Bairro ficticio 27', 'Cidade 27')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 28', 02800000000, 000280000,
+    17999999028, '0028-01-01 00:00:00.0000000', 'Rua ficticia 28', 28, 'Bairro ficticio 28', 'Cidade 28')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 29', 02900000000, 000290000,
+    17999999029, '0029-01-01 00:00:00.0000000', 'Rua ficticia 29', 29, 'Bairro ficticio 29', 'Cidade 29')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 30', 03000000000, 000300000,
+    17999999030, '0030-01-01 00:00:00.0000000', 'Rua ficticia 30', 30, 'Bairro ficticio 30', 'Cidade 30')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 31', 03100000000, 000310000,
+    17999999031, '0031-01-01 00:00:00.0000000', 'Rua ficticia 31', 31, 'Bairro ficticio 31', 'Cidade 31')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 32', 03200000000, 000320000,
+    17999999032, '0032-01-01 00:00:00.0000000', 'Rua ficticia 32', 32, 'Bairro ficticio 32', 'Cidade 32')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 33', 03300000000, 000330000,
+    17999999033, '0033-01-01 00:00:00.0000000', 'Rua ficticia 33', 33, 'Bairro ficticio 33', 'Cidade 33')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 34', 03400000000, 000340000,
+    17999999034, '0034-01-01 00:00:00.0000000', 'Rua ficticia 34', 34, 'Bairro ficticio 34', 'Cidade 34')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 35', 03500000000, 000350000,
+    17999999035, '0035-01-01 00:00:00.0000000', 'Rua ficticia 35', 35, 'Bairro ficticio 35', 'Cidade 35')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 36', 03600000000, 000360000,
+    17999999036, '0036-01-01 00:00:00.0000000', 'Rua ficticia 36', 36, 'Bairro ficticio 36', 'Cidade 36')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 37', 03700000000, 000370000,
+    17999999037, '0037-01-01 00:00:00.0000000', 'Rua ficticia 37', 37, 'Bairro ficticio 37', 'Cidade 37')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 38', 03800000000, 000380000,
+    17999999038, '0038-01-01 00:00:00.0000000', 'Rua ficticia 38', 38, 'Bairro ficticio 38', 'Cidade 38')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 39', 03900000000, 000390000,
+    17999999039, '0039-01-01 00:00:00.0000000', 'Rua ficticia 39', 39, 'Bairro ficticio 39', 'Cidade 39')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 40', 04000000000, 000400000,
+    17999999040, '0040-01-01 00:00:00.0000000', 'Rua ficticia 40', 40, 'Bairro ficticio 40', 'Cidade 40')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 41', 04100000000, 000410000,
+    17999999041, '0041-01-01 00:00:00.0000000', 'Rua ficticia 41', 41, 'Bairro ficticio 41', 'Cidade 41')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 42', 04200000000, 000420000,
+    17999999042, '0042-01-01 00:00:00.0000000', 'Rua ficticia 42', 42, 'Bairro ficticio 42', 'Cidade 42')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 43', 04300000000, 000430000,
+    17999999043, '0043-01-01 00:00:00.0000000', 'Rua ficticia 43', 43, 'Bairro ficticio 43', 'Cidade 43')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 44', 04400000000, 000440000,
+    17999999044, '0044-01-01 00:00:00.0000000', 'Rua ficticia 44', 44, 'Bairro ficticio 44', 'Cidade 44')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 45', 04500000000, 000450000,
+    17999999045, '0045-01-01 00:00:00.0000000', 'Rua ficticia 45', 45, 'Bairro ficticio 45', 'Cidade 45')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 46', 04600000000, 000460000,
+    17999999046, '0046-01-01 00:00:00.0000000', 'Rua ficticia 46', 46, 'Bairro ficticio 46', 'Cidade 46')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 47', 04700000000, 000470000,
+    17999999047, '0047-01-01 00:00:00.0000000', 'Rua ficticia 47', 47, 'Bairro ficticio 47', 'Cidade 47')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 48', 04800000000, 000480000,
+    17999999048, '0048-01-01 00:00:00.0000000', 'Rua ficticia 48', 48, 'Bairro ficticio 48', 'Cidade 48')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 49', 04900000000, 000490000,
+    17999999049, '0049-01-01 00:00:00.0000000', 'Rua ficticia 49', 49, 'Bairro ficticio 49', 'Cidade 49')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 50', 05000000000, 000500000,
+    17999999050, '0050-01-01 00:00:00.0000000', 'Rua ficticia 50', 50, 'Bairro ficticio 50', 'Cidade 50')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 51', 05100000000, 000510000,
+    17999999051, '0051-01-01 00:00:00.0000000', 'Rua ficticia 51', 51, 'Bairro ficticio 51', 'Cidade 51')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 52', 05200000000, 000520000,
+    17999999052, '0052-01-01 00:00:00.0000000', 'Rua ficticia 52', 52, 'Bairro ficticio 52', 'Cidade 52')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 53', 05300000000, 000530000,
+    17999999053, '0053-01-01 00:00:00.0000000', 'Rua ficticia 53', 53, 'Bairro ficticio 53', 'Cidade 53')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 54', 05400000000, 000540000,
+    17999999054, '0054-01-01 00:00:00.0000000', 'Rua ficticia 54', 54, 'Bairro ficticio 54', 'Cidade 54')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 55', 05500000000, 000550000,
+    17999999055, '0055-01-01 00:00:00.0000000', 'Rua ficticia 55', 55, 'Bairro ficticio 55', 'Cidade 55')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 56', 05600000000, 000560000,
+    17999999056, '0056-01-01 00:00:00.0000000', 'Rua ficticia 56', 56, 'Bairro ficticio 56', 'Cidade 56')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 57', 05700000000, 000570000,
+    17999999057, '0057-01-01 00:00:00.0000000', 'Rua ficticia 57', 57, 'Bairro ficticio 57', 'Cidade 57')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 58', 05800000000, 000580000,
+    17999999058, '0058-01-01 00:00:00.0000000', 'Rua ficticia 58', 58, 'Bairro ficticio 58', 'Cidade 58')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 59', 05900000000, 000590000,
+    17999999059, '0059-01-01 00:00:00.0000000', 'Rua ficticia 59', 59, 'Bairro ficticio 59', 'Cidade 59')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 60', 06000000000, 000600000,
+    17999999060, '0060-01-01 00:00:00.0000000', 'Rua ficticia 60', 60, 'Bairro ficticio 60', 'Cidade 60')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 61', 06100000000, 000610000,
+    17999999061, '0061-01-01 00:00:00.0000000', 'Rua ficticia 61', 61, 'Bairro ficticio 61', 'Cidade 61')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 62', 06200000000, 000620000,
+    17999999062, '0062-01-01 00:00:00.0000000', 'Rua ficticia 62', 62, 'Bairro ficticio 62', 'Cidade 62')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 63', 06300000000, 000630000,
+    17999999063, '0063-01-01 00:00:00.0000000', 'Rua ficticia 63', 63, 'Bairro ficticio 63', 'Cidade 63')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 64', 06400000000, 000640000,
+    17999999064, '0064-01-01 00:00:00.0000000', 'Rua ficticia 64', 64, 'Bairro ficticio 64', 'Cidade 64')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 65', 06500000000, 000650000,
+    17999999065, '0065-01-01 00:00:00.0000000', 'Rua ficticia 65', 65, 'Bairro ficticio 65', 'Cidade 65')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 66', 06600000000, 000660000,
+    17999999066, '0066-01-01 00:00:00.0000000', 'Rua ficticia 66', 66, 'Bairro ficticio 66', 'Cidade 66')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 67', 06700000000, 000670000,
+    17999999067, '0067-01-01 00:00:00.0000000', 'Rua ficticia 67', 67, 'Bairro ficticio 67', 'Cidade 67')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 68', 06800000000, 000680000,
+    17999999068, '0068-01-01 00:00:00.0000000', 'Rua ficticia 68', 68, 'Bairro ficticio 68', 'Cidade 68')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 69', 06900000000, 000690000,
+    17999999069, '0069-01-01 00:00:00.0000000', 'Rua ficticia 69', 69, 'Bairro ficticio 69', 'Cidade 69')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 70', 07000000000, 000700000,
+    17999999070, '0070-01-01 00:00:00.0000000', 'Rua ficticia 70', 70, 'Bairro ficticio 70', 'Cidade 70')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 71', 07100000000, 000710000,
+    17999999071, '0071-01-01 00:00:00.0000000', 'Rua ficticia 71', 71, 'Bairro ficticio 71', 'Cidade 71')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 72', 07200000000, 000720000,
+    17999999072, '0072-01-01 00:00:00.0000000', 'Rua ficticia 72', 72, 'Bairro ficticio 72', 'Cidade 72')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 73', 07300000000, 000730000,
+    17999999073, '0073-01-01 00:00:00.0000000', 'Rua ficticia 73', 73, 'Bairro ficticio 73', 'Cidade 73')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 74', 07400000000, 000740000,
+    17999999074, '0074-01-01 00:00:00.0000000', 'Rua ficticia 74', 74, 'Bairro ficticio 74', 'Cidade 74')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 75', 07500000000, 000750000,
+    17999999075, '0075-01-01 00:00:00.0000000', 'Rua ficticia 75', 75, 'Bairro ficticio 75', 'Cidade 75')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 76', 07600000000, 000760000,
+    17999999076, '0076-01-01 00:00:00.0000000', 'Rua ficticia 76', 76, 'Bairro ficticio 76', 'Cidade 76')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 77', 07700000000, 000770000,
+    17999999077, '0077-01-01 00:00:00.0000000', 'Rua ficticia 77', 77, 'Bairro ficticio 77', 'Cidade 77')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 78', 07800000000, 000780000,
+    17999999078, '0078-01-01 00:00:00.0000000', 'Rua ficticia 78', 78, 'Bairro ficticio 78', 'Cidade 78')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 79', 07900000000, 000790000,
+    17999999079, '0079-01-01 00:00:00.0000000', 'Rua ficticia 79', 79, 'Bairro ficticio 79', 'Cidade 79')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 80', 08000000000, 000800000,
+    17999999080, '0080-01-01 00:00:00.0000000', 'Rua ficticia 80', 80, 'Bairro ficticio 80', 'Cidade 80')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 81', 08100000000, 000810000,
+    17999999081, '0081-01-01 00:00:00.0000000', 'Rua ficticia 81', 81, 'Bairro ficticio 81', 'Cidade 81')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 82', 08200000000, 000820000,
+    17999999082, '0082-01-01 00:00:00.0000000', 'Rua ficticia 82', 82, 'Bairro ficticio 82', 'Cidade 82')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 83', 08300000000, 000830000,
+    17999999083, '0083-01-01 00:00:00.0000000', 'Rua ficticia 83', 83, 'Bairro ficticio 83', 'Cidade 83')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 84', 08400000000, 000840000,
+    17999999084, '0084-01-01 00:00:00.0000000', 'Rua ficticia 84', 84, 'Bairro ficticio 84', 'Cidade 84')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 85', 08500000000, 000850000,
+    17999999085, '0085-01-01 00:00:00.0000000', 'Rua ficticia 85', 85, 'Bairro ficticio 85', 'Cidade 85')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 86', 08600000000, 000860000,
+    17999999086, '0086-01-01 00:00:00.0000000', 'Rua ficticia 86', 86, 'Bairro ficticio 86', 'Cidade 86')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 87', 08700000000, 000870000,
+    17999999087, '0087-01-01 00:00:00.0000000', 'Rua ficticia 87', 87, 'Bairro ficticio 87', 'Cidade 87')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 88', 08800000000, 000880000,
+    17999999088, '0088-01-01 00:00:00.0000000', 'Rua ficticia 88', 88, 'Bairro ficticio 88', 'Cidade 88')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 89', 08900000000, 000890000,
+    17999999089, '0089-01-01 00:00:00.0000000', 'Rua ficticia 89', 89, 'Bairro ficticio 89', 'Cidade 89')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 90', 09000000000, 000900000,
+    17999999090, '0090-01-01 00:00:00.0000000', 'Rua ficticia 90', 90, 'Bairro ficticio 90', 'Cidade 90')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 91', 09100000000, 000910000,
+    17999999091, '0091-01-01 00:00:00.0000000', 'Rua ficticia 91', 91, 'Bairro ficticio 91', 'Cidade 91')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 92', 09200000000, 000920000,
+    17999999092, '0092-01-01 00:00:00.0000000', 'Rua ficticia 92', 92, 'Bairro ficticio 92', 'Cidade 92')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 93', 09300000000, 000930000,
+    17999999093, '0093-01-01 00:00:00.0000000', 'Rua ficticia 93', 93, 'Bairro ficticio 93', 'Cidade 93')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 94', 09400000000, 000940000,
+    17999999094, '0094-01-01 00:00:00.0000000', 'Rua ficticia 94', 94, 'Bairro ficticio 94', 'Cidade 94')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 95', 09500000000, 000950000,
+    17999999095, '0095-01-01 00:00:00.0000000', 'Rua ficticia 95', 95, 'Bairro ficticio 95', 'Cidade 95')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 96', 09600000000, 000960000,
+    17999999096, '0096-01-01 00:00:00.0000000', 'Rua ficticia 96', 96, 'Bairro ficticio 96', 'Cidade 96')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 97', 09700000000, 000970000,
+    17999999097, '0097-01-01 00:00:00.0000000', 'Rua ficticia 97', 97, 'Bairro ficticio 97', 'Cidade 97')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 98', 09800000000, 000980000,
+    17999999098, '0098-01-01 00:00:00.0000000', 'Rua ficticia 98', 98, 'Bairro ficticio 98', 'Cidade 98')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 99', 09900000000, 000990000,
+    17999999099, '0099-01-01 00:00:00.0000000', 'Rua ficticia 99', 99, 'Bairro ficticio 99', 'Cidade 99')
+GO
+INSERT INTO pessoaFisica (Nome, Cpf, Rg, Telefone, DtNascimento, Rua, NumeroCasa, Bairro, Cidade)
+    VALUES ('Carlos 100', 10000000000, 001000000,
+    17999999100, '0100-01-01 00:00:00.0000000', 'Rua ficticia 100', 100, 'Bairro ficticio 100', 'Cidade 100')
+GO
