@@ -15,12 +15,15 @@ namespace CadastroDeCliente.Models
         public String Nome { get; set; }
 
         [Required(ErrorMessage = "{0} obrigatório")]
+        [DisplayFormat(DataFormatString = "{0:000\\.000\\.000-00}", ApplyFormatInEditMode = true)]
         public long Cpf { get; set; }
 
         [Required(ErrorMessage = "{0} obrigatório")]
+        [DisplayFormat(DataFormatString = "{0:00000000-0}", ApplyFormatInEditMode = true)]
         public long Rg { get; set; }
 
         [Required(ErrorMessage = "{0} obrigatório")]
+        [DisplayFormat(DataFormatString = "{0:(00)00000-0000}", ApplyFormatInEditMode = true)]
         public long Telefone { get; set; }
 
         [Display(Name = "Data de nascimento")]
